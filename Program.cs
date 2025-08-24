@@ -6,13 +6,13 @@ Console.WriteLine("Je gaat eerst ingeven hoeveel getallen " +
     "Op elke lijn komt er een willekeurig getal te staan tussen 1 en 100!\n\n");
 
 
-//////??????? Vraag 4 VUL IN Console.Write("H
+//////??????? Vraag 4 VUL IN 
 
 
-//////??????? Vraag 5: VUL IN Convert    
+//////??????? Vraag 5: VUL IN  
 
 
-//////??????? Vraag 6 VUL IN  Random
+//////??????? Vraag 6 VUL IN  
 
 
 for (int i =  /*vraag 7A*/;     i < /*vraag 7B*/;     i++)
